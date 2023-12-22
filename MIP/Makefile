@@ -24,7 +24,7 @@ ARCH1 := arm64e
 ARCH2 := x86_64
 else
 ARCH1 := x86_64
-ARCH2 := i386
+ARCH2 := x86_64
 endif
 
 SIGN_IDENTITY ?= CodeSign
